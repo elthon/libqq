@@ -1,0 +1,28 @@
+{
+  "name": "libqq",
+  "version": "0.1.0",
+  "repository": "git://github.com/elthon/libqq.git",
+  "description": "A nodejs webqq library.",
+  "author": "elthon <andijo@qq.com> (https://github.com/elthon)",
+  "dependencies": {
+    "debug": "~0.7.2"
+  },
+  "devDependencies": {
+    "thenjs": "*",
+    "request": "*",
+    "node-uuid":"*",
+    "underscore":"*",
+    "moment":"*",
+    "qs" : "*"
+  },
+  "engines": {
+    "node" : ">=0.10.0",
+    "npm" : ">=1.3.0"
+  },
+  "keywords": [
+    "libqq",
+    "webqq",
+    "tinyqq"
+  ],
+  "license": "MIT"
+}
